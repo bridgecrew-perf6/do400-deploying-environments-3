@@ -1,4 +1,4 @@
-pipleine {
+pipeline {
     agnet {
         node{
             label 'maven'
