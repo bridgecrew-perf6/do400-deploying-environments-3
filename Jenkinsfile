@@ -1,5 +1,5 @@
 pipeline {
-    agnet {
+    agent {
         node{
             label 'maven'
         }
